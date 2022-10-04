@@ -6,7 +6,7 @@ Projeto desenvolvido individualmente com o intuito de criar uma aplicação web 
 [ Clique para ver o projeto ](https://to-do-list.devvagner.com/)
 
 
-## 🔰 Funcinalidades 
+## 🔰 Funcionalidades 
 
 - O usuário pode inserir uma tarefa;
 - O usuário pode deletar a tarefa;
