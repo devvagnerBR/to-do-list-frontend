@@ -1,7 +1,7 @@
 
 # 🎱 To do list
 
-Projeto desenvolvido individualmente com o intuito de criar uma aplicação web com a funcionalida de uma lista de tarefas
+Projeto desenvolvido individualmente com o intuito de criar uma aplicação web com a funcionalidade de uma lista de tarefas
 
 [ Clique para ver o projeto ](https://to-do-list.devvagner.com/)
 
