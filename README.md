@@ -5,7 +5,7 @@
 
 # 🎱 To do list
 
-Projeto desenvolvido individualmente com o intuito de criar uma aplicação web com a funcionalidade de uma lista de tarefas
+O React To-Do List é um software desenvolvido em React, criado com o objetivo de fornecer uma aplicação simples e intuitiva para gerenciar listas de tarefas (to-do lists). Com esta aplicação, os usuários podem criar, visualizar, editar e excluir tarefas, ajudando a organizar e acompanhar suas atividades diárias.
 
 [ Clique para ver o projeto ](https://to-do-list.devvagner.com/)
 
